@@ -1,0 +1,172 @@
+header {
+    background-color: yellow;
+
+}
+
+.centered {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.price {
+    width: max-content;
+    background-color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.image_cr {
+    display: flex;
+    justify-content: center;
+}
+.cr {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+main {
+    margin-top:30px;
+    margin-bottom: 30px;
+
+}
+.centered {
+    text-align: center;
+    margin-top: 10px;
+}
+.wrapper_2 {
+    display: flex;
+    justify-content: center;
+    padding-left:20px;
+}
+.knopo4ka {
+    margin-top: 30px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    padding-left:12px ;
+    padding-right:12px ;
+    border-radius:5px ;
+}
+.tshirt {
+    border:3px solid red;
+    padding: 20px;
+}
+.ssr {
+    text-align: center;
+    margin-top:30px ;
+    background-color: lightgray;
+    line-height: 40px;
+}
+.img_1 {
+    border: 2px solid gray;
+}
+.shop_1 {
+    text-align: center;
+}
+.shop {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.shop_1b {
+    margin-left:25px ;
+    margin-right:25px ;
+    text-align: center;
+}
+.gg {
+    margin-top: 30px;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    padding-left:12px ;
+    padding-right:12px ;
+    border-radius:5px ;
+}
+.shop_2 {
+    margin-top:30px ;
+    display: flex;
+    justify-content: center;
+}
+.dengi {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    padding: 9px;
+}
+.money {
+    margin-top:30px;
+    margin-bottom:30px;
+    box-shadow: black 10px 7px 35px;
+}
+.сorzina {
+    background-color: yellow;
+}
+.musorka {
+    padding:20px ;
+    
+}
+.core {
+    padding: 20px;
+}
+.zakaz {
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+.form {
+    display: flex;
+    justify-content: center;
+}
+.input_text {
+    padding: 15px;
+    border:none ;
+    background-color: #f1f1f1;
+    max-width:600px ;
+    min-width: 300px;
+    margin-bottom:15px ;
+    margin-top: 5px;
+    box-shadow: 2px 1px 5px 0.5px black; 
+}
+hr {
+     height: 0;
+     border: 0;
+     box-shadow: 2px 2px 5px 0.5px black;
+     margin-bottom: 20px;
+     max-width: 600px;
+     min-width: 300px;
+}
+.knipka {
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
+.pozitcia {
+    position: fixed;
+    top: 80%;
+    left: 80%;
+    border: 1px solid black;
+}   
+.rg2 {
+    position: fixed;
+    top: 10%;
+}
+.body {
+    padding: 3px 15px;
+}
+.footer {
+    padding: 3px 15px;
+    background-color: green;
+    color: white;
+}
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border:  1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 7px 0 rgba(0,0,0,0.3);
+}
